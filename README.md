@@ -1,4 +1,5 @@
 Trabalho de Testes de Software - Engenharia de Software II
+
 Descrição do Projeto
 Este projeto foi desenvolvido como parte da disciplina Engenharia de Software II e tem como objetivo demonstrar diferentes abordagens de testes de software (unitários, funcionais e de valor limite) em um sistema de cálculo de descontos para clientes.
 
